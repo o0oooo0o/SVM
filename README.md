@@ -18,5 +18,7 @@ Most of them are Korean sites, but there are also foreign sites sometimes. They 
 ## [Sites]  
 
 ### 7. SVM
-asdf
+> <https://ratsgo.github.io/machine%20learning/2017/05/23/SVM/> (Korean)
+> <https://wikidocs.net/5719> (Korean)
+> <http://jaejunyoo.blogspot.com/2018/01/support-vector-machine-1.html> (Korean)
 
