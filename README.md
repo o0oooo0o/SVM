@@ -20,12 +20,3 @@ Most of them are Korean sites, but there are also foreign sites sometimes. Most 
 ### 7. SVM
 asdf
 
-
-## [Books]
-asdf
-
-## [papers]
-
-
-
-천천히 작성 중..
